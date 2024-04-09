@@ -70,6 +70,12 @@ To effectively use Crystal Reports with your data, you may need to create or mod
     (2, 'Widget B', 150, '2023-01-02', 3000.00),
     (3, 'Gadget C', 200, '2023-01-03', 4500.00);
     ```
+    ## Project Status
+
+| Project | Status       | Comments                               |
+|---------|-------------|----------------------------------------|
+| Crystal Report | In Progress          | Crystal report in progress; this is a demo |
+
 
 4. **Use Crystal Reports** to connect to your database and select the `SalesReport` table as the data source for your report.
 
